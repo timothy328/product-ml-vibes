@@ -23,47 +23,47 @@ Each concept folder contains a README describing:
 
 ```text
 product-ml-vibes/
-├── strategy-and-discovery/
-│   ├── product-strategy/
-│   ├── customer-discovery/
-│   ├── problem-framing/
-│   ├── personas-and-segmentation/
-│   └── journey-mapping/
-├── planning-and-definition/
-│   ├── product-requirements/
-│   ├── user-stories/
-│   ├── acceptance-criteria/
-│   ├── prioritization/
-│   └── roadmap-and-release-planning/
-├── design/
-│   ├── ux-research/
-│   ├── uiux/
-│   ├── information-architecture/
-│   ├── user-flows/
-│   ├── wireframing/
-│   ├── prototyping/
-│   ├── design-systems/
-│   ├── content-design/
-│   └── accessibility/
-├── validation-and-testing/
-│   ├── usability-testing/
-│   ├── concept-testing/
-│   ├── experiment-design/
-│   ├── analytics-and-instrumentation/
-│   └── quality-assurance/
-├── delivery-and-collaboration/
-│   ├── agile-ceremonies/
-│   ├── backlog-management/
-│   ├── design-handoff/
-│   ├── engineering-collaboration/
-│   ├── launch-planning/
-│   └── change-management/
-└── outcomes-and-operations/
-    ├── product-metrics/
-    ├── feedback-management/
-    ├── product-ops/
-    ├── iteration-and-learning/
-    └── product-portfolio/
+├── 01_strategy-and-discovery/
+│   ├── 01_product-strategy/
+│   ├── 02_customer-discovery/
+│   ├── 03_problem-framing/
+│   ├── 04_personas-and-segmentation/
+│   └── 05_journey-mapping/
+├── 02_planning-and-definition/
+│   ├── 01_product-requirements/
+│   ├── 02_user-stories/
+│   ├── 03_acceptance-criteria/
+│   ├── 04_prioritization/
+│   └── 05_roadmap-and-release-planning/
+├── 03_design/
+│   ├── 01_ux-research/
+│   ├── 02_uiux/
+│   ├── 03_information-architecture/
+│   ├── 04_user-flows/
+│   ├── 05_wireframing/
+│   ├── 06_prototyping/
+│   ├── 07_design-systems/
+│   ├── 08_content-design/
+│   └── 09_accessibility/
+├── 04_validation-and-testing/
+│   ├── 01_usability-testing/
+│   ├── 02_concept-testing/
+│   ├── 03_experiment-design/
+│   ├── 04_analytics-and-instrumentation/
+│   └── 05_quality-assurance/
+├── 05_delivery-and-collaboration/
+│   ├── 01_agile-ceremonies/
+│   ├── 02_backlog-management/
+│   ├── 03_design-handoff/
+│   ├── 04_engineering-collaboration/
+│   ├── 05_launch-planning/
+│   └── 06_change-management/
+└── 06_outcomes-and-operations/
+    ├── 01_product-metrics/
+    ├── 02_feedback-management/
+    ├── 03_product-ops/
+    ├── 04_iteration-and-learning/
+    └── 05_product-portfolio/
 ```
 
 ## Working principles

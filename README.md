@@ -64,6 +64,27 @@ product-ml-vibes/
     ├── 03_product-ops/
     ├── 04_iteration-and-learning/
     └── 05_product-portfolio/
+└── 07_marketing/
+    ├── 01_marketing-strategy/
+    ├── 02_brand/
+    ├── 03_product-marketing/
+    ├── 04_performance-marketing/
+    ├── 05_content-and-seo/
+    ├── 06_lifecycle-and-crm/
+    ├── 07_communications-and-pr/
+    ├── 08_social-and-community/
+    ├── 09_events-and-partnerships/
+    └── 10_channel-strategies/
+        ├── 01_paid-search/
+        ├── 02_paid-social/
+        ├── 03_organic-search/
+        ├── 04_email-and-lifecycle/
+        ├── 05_social-and-community/
+        ├── 06_content-and-video/
+        ├── 07_events-and-webinars/
+        ├── 08_influencer-and-affiliate/
+        ├── 09_partners-and-marketplaces/
+        └── 10_product-led-and-referral/
 ```
 
 ## Working principles
